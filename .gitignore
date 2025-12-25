@@ -1,0 +1,8 @@
+# No hacer seguimiento a los siguientes archivos
+*.txt
+*.doc
+*.docx
+
+# No rastrear la carpeta temp
+temp/
+
